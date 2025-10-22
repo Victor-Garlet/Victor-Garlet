@@ -66,7 +66,7 @@
 --->
 
 ## Stats
-<!-- Stats card by anuraghazra/github-readme-stats
+ <!--Stats card by anuraghazra/github-readme-stats
      Customization guide:
      - Hide private contributions: &count_private=true|false
      - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
@@ -76,7 +76,7 @@
 
 ---
 
-## Links
+## Got an idea or opportunity? Message me on LinkedIn.
 <!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
      https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
 <!-- - [**Portfolio**](https://learn.nextwork.org/happy_maroon_jolly_red_currant/portfolio)
