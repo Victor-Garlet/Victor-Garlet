@@ -71,10 +71,9 @@
      - Hide private contributions: &count_private=true|false
      - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
      - Show icons: &show_icons=true
-     Docs: https://github.com/anuraghazra/github-readme-stats -->
-![Victor' GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-garlet&show_icons=true&theme=gruvbox)
+     Docs: https://github.com/anuraghazra/github-readme-stats 
+![Victor' GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-garlet&show_icons=true&theme=gruvbox)-->
 
----
 
 ## Got an idea or opportunity? Message me on LinkedIn.
 <!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
