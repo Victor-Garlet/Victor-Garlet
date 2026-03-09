@@ -1,92 +1,89 @@
-# 🐐 Victor Garlet
-**`SENIOR DATA ANALYST`** 
+<div align="center">
 
-## About Me
-- I have 5+ years of experience as a Data Analyst in investment brokerage and tech companies.
-- Built automation workflows and dashboards that saved hundreds of hours in manual reporting.
-- Currently developing MoneyDesk, a personal finance platform helping users track goals and automate their financial routines.
+# Victor Garlet
+### Financial Data Analyst
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/victorgarlet)
 
-## Skill stack
-<!-- Skill icons provided by skill-icons. Full icon list and names:
-     https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,github,python,mysql,bash,mongodb,flask&theme=light)](https://skillicons.dev)
-
-**Also comfortable with**: APIs/REST, BigQuery/Cloud SQL, N8n/Automations, ML workflows.
-
+</div>
 
 ---
 
-## Projects - showcase
+## What I actually do
 
-<!--<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">
-        <img src="http://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-llm-deepseek_gggggggg"
-             alt="DeepSeek AI Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b>DeepSeek AI Chatbot</b><br/>
-      <sub>Built an LLM-powered chatbot that answers domain-specific questions in real time.</sub><br/>
-      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">Repo</a>
-      <br/>
-      <sub>Tags: AI, LLMs, Prompt Engineering</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">
-        <img src="https://learn.nextwork.org/projects/static/aws-devops-vscode/architecture-complete.png"
-             alt="CI/CD Pipeline Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b>Cloud CI/CD Pipeline</b><br/>
-      <sub>Automated deployment of a web app using GitHub Actions and AWS ECS.</sub><br/>
-      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">Repo</a>
-      <br/>
-      <sub>Tags: DevOps, Docker, GitHub Actions</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">
-        <img src="https://camo.githubusercontent.com/6b6af843159b1de02c9a7ae1908b05a29b1c2383077f1c3d38a08ac7889c81bd/687474703a2f2f6c6561726e2e6e657874776f726b2e6f72672f68617070795f6d61726f6f6e5f6a6f6c6c795f7265645f63757272616e742f75706c6f6164732f6177732d6e6574776f726b732d7670635f3266616366393237"
-             alt="VPC Networking Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b>Secure AWS VPC</b><br/>
-      <sub>Designed and deployed a custom VPC with public/private subnets and routing.</sub><br/>
-      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">Repo</a>
-      <br/>
-      <sub>Tags: Networking, AWS, Security</sub>
-    </td>
-  </tr>
-</table>
+Five years building data systems inside Brazilian financial services.
+Not dashboards for the sake of dashboards. Systems that moved revenue.
 
---->
+At EQI, one of Brazil's largest brokerages with R$50B+ AUC, I built a portfolio monitoring system
+that tracked 5,000+ client accounts in real time and surfaced upsell opportunities advisors were missing.
+That system generated **€200K/month** in additional brokerage revenue.
 
-## Stats
- <!--Stats card by anuraghazra/github-readme-stats
-     Customization guide:
-     - Hide private contributions: &count_private=true|false
-     - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
-     - Show icons: &show_icons=true
-     Docs: https://github.com/anuraghazra/github-readme-stats 
-![Victor' GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-garlet&show_icons=true&theme=gruvbox)-->
+I also led an ROA segmentation analysis across advisor tiers that contributed to an estimated
+**€15M annual profit increase** and directly changed how the company defined promotion criteria.
 
+At AG Capital, I replaced a 2,500-line VBA system used by 45 people daily with a centralized Flask app.
+Operational errors dropped **90%**. CRM data governance rebuilt across 5,000+ client records.
 
-## Got an idea or opportunity? Message me on LinkedIn.
-<!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
-     https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
-<!-- - [**Portfolio**](https://learn.nextwork.org/happy_maroon_jolly_red_currant/portfolio)
-- [**Contact**](mailto:maximus@nextwork.org)-->
+---
 
-<a href="https://www.linkedin.com/in/victor-garlet/" target="blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
-<!-- <a href="https://www.instagram.com/mmaximus.soares/" target="blank">
-  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-</a>
+## Projects
 
-<!-- Optional: fun GIF. Consider replacing with contribution streak or removing for a tighter, more professional finish. -->
-![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh2ZzdlYWZndHl2dWcyb2RveHlpYzhsand5YmRmaHRwdXhlcGZhZyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/l3q2wJsC23ikJg9xe/giphy.gif)
+| Project | Business Problem | Stack |
+|---|---|---|
+| [financial-portfolio-monitor](https://github.com/VictorGarlet/financial-portfolio-monitor) | Detect portfolio drift and upsell windows before advisors miss them | Python · pandas · yfinance · Streamlit |
+| [roa-client-segmentation](https://github.com/VictorGarlet/roa-client-segmentation) | Segment clients by ROA tier to reshape advisor compensation models | SQL · Python · scikit-learn |
+| [financial-dashboard-powerbi](https://github.com/VictorGarlet/financial-dashboard-powerbi) | Build a P&L and KPI dashboard that stakeholders actually use | Power BI · DAX · Python ETL |
+| [sql-financial-analytics](https://github.com/VictorGarlet/sql-financial-analytics) | SQL cookbook for financial client segmentation and churn detection | SQL · PostgreSQL |
+| [crm-data-quality-pipeline](https://github.com/VictorGarlet/crm-data-quality-pipeline) | Deduplicate and validate 5,000+ CRM records without losing history | Python · pandas · HubSpot API |
+
+Every repository has the business problem at the top of the README before any line of code.
+
+---
+
+## Stack
+
+**Query and Transform**
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+
+**Warehouses**
+
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+**Visualization**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
+**Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+
+**Domain**
+
+Portfolio Analytics · Client Segmentation · ROA Modeling · CRM Governance · Financial KPIs · P&L Reporting
+
+---
+
+## Background
+
+Master's in Mathematics · 5 years in financial services · Based in Ireland
+
+I joined EQI as an SDR, became an advisor, specialized in derivatives and equity trading,
+then moved to building the systems that the entire advisory floor depended on.
+
+That path, from client-facing to backend analytics, is why I think about data the way I do.
+I know what it costs when the numbers are wrong and who it affects when the system breaks.
+
+---
+
+## Open to
+
+Senior Data Analyst roles in fintech, investment, banking, or financial analytics.
+
+📩 victormoraes684@gmail.com
