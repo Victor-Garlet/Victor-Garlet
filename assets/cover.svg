@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Victor Garlet, Data Analyst</title>
+  <desc id="desc">A clean dark banner with a four-step path from question to decision.</desc>
+  <rect width="1200" height="320" rx="20" fill="#132631"/>
+  <path d="M 640 40 V 260 M 760 40 V 260 M 880 40 V 260 M 1000 40 V 260 M 1120 40 V 260" fill="none" stroke="#ffffff" stroke-opacity=".035" stroke-width="1"/>
+  <rect x="58" y="57" width="34" height="4" rx="2" fill="#72dbc9"/>
+  <text x="58" y="104" fill="#83decb" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="3">DATA ANALYST</text>
+  <text x="54" y="181" fill="#f7fbf9" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="-2">Victor Garlet</text>
+  <text x="58" y="229" fill="#b9cbd0" font-family="Arial, Helvetica, sans-serif" font-size="23">From a business question to a clear decision.</text>
+  <path d="M 690 190 C 752 190, 752 112, 814 112 S 876 190, 938 190 S 1000 112, 1062 112" fill="none" stroke="#6dd0bf" stroke-opacity=".65" stroke-width="3"/>
+  <circle cx="690" cy="190" r="9" fill="#101c29" stroke="#72dbc9" stroke-width="3"/>
+  <circle cx="814" cy="112" r="9" fill="#101c29" stroke="#72dbc9" stroke-width="3"/>
+  <circle cx="938" cy="190" r="9" fill="#101c29" stroke="#72dbc9" stroke-width="3"/>
+  <circle cx="1062" cy="112" r="10" fill="#a1e4b2"/>
+  <g fill="#c6d7d8" text-anchor="middle">
+    <text x="690" y="226" font-family="Arial, Helvetica, sans-serif" font-size="15">Question</text>
+    <text x="814" y="83" font-family="Arial, Helvetica, sans-serif" font-size="15">Model</text>
+    <text x="938" y="226" font-family="Arial, Helvetica, sans-serif" font-size="15">Evidence</text>
+    <text x="1062" y="83" font-family="Arial, Helvetica, sans-serif" font-size="15">Decision</text>
+  </g>
+  <rect x="58" y="275" width="1084" height="1" fill="#ffffff" opacity=".13"/>
+  <text x="58" y="300" fill="#86a6ac" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1">FINANCE  /  OPERATIONS  /  ANALYTICS</text>
+</svg>
