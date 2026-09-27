@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/cover.svg" alt="Victor Garlet. Data analyst focused on turning questions into clear decisions." width="100%">
+  <img src="assets/cover.svg" alt="Question, Model, Evidence and Decision connected in one path." width="100%">
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/victorgarlet">LinkedIn</a> · <a href="mailto:victormoraes684@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/victor-garlet/">LinkedIn</a> · <a href="mailto:victormoraes684@gmail.com">Email</a>
 </p>
 
 I started my career in investments at EQI and later moved into data analysis at AG Capital. I work with financial and operational data, using **SQL, Python, dbt and Power BI** to build metrics people can trust and decisions they can explain.
