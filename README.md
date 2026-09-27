@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/victor-garlet/">LinkedIn</a> · <a href="mailto:victormoraes684@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/victor-garlet/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white"></a> <a href="mailto:victormoraes684@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-132631?style=flat-square&amp;logo=gmail&amp;logoColor=white"></a>
 </p>
 
 I started my career in investments at EQI and later moved into data analysis at AG Capital. I work with financial and operational data, using **SQL, Python, dbt and Power BI** to build metrics people can trust and decisions they can explain.
